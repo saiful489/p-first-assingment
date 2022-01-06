@@ -39,13 +39,13 @@ section{
     width: 70%;
 }
 .ms-color{
-    color:orange;
+    color:tomato;
     font-size:40px;
     font-weight: 700;
     padding-top: 10px;
 }
 .ms-border{
-    border-left:4px solid red;
+    border-left:2px solid royalblue ;
     padding-left: 10px;
     }
 .btn-m{
